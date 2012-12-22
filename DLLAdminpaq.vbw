@@ -1,4 +1,4 @@
 Cliente = 25, 25, 904, 460, C
-FuncionesConexion = 125, 125, 1020, 576, C
-Producto = 75, 75, 998, 438, Z
-Agente = 125, 125, 1048, 488, C
+FuncionesConexion = 125, 125, 1020, 576, Z
+Producto = 75, 75, 998, 438, C
+Agente = 125, 125, 1048, 488, 
